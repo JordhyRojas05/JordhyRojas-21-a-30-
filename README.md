@@ -7,3 +7,4 @@
 **Fecha:** 12 de Noviembre del 2024
 ---
 Link de los videos: 
+**https://asciinema.org/a/690324**
